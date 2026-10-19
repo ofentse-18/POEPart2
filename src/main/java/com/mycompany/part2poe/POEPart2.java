@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * Main application driver for Part 2(incorporating Part 1 Auth and Part 2 QuickChat) 
  */
-public class Part2POE {
+public class POEPart2 {
 
     public static void main(String[] args) {
        Scanner scanner = new Scanner(System.in);
@@ -86,6 +86,8 @@ public class Part2POE {
         //-----------------------------------------------------------------
         //PART 2 : QUICKCHAT (Only accessible after successful login)
         //-----------------------------------------------------------------
+         System.out.println("\nWelcome to QuickChat. ");
          
+         Array
     }
 }
